@@ -5,9 +5,9 @@
 ### Take a look at this gibberish ( ͝° ͜ʖ͡°)ᕤ:
 * HTML/CSS: NOPE
 * JavaScript: Neither
-* Python: Nahh
-* Brainf*ck: Bro that lang is ~~confusing~~
-* C#/C++: C tte nani? (シって何？)
+* Python:	(☆_@)
+* Brainf*ck: Bro that lang is _______
+* C#/C++: C tte nani? (「シ」って何？)
 * Java: ┐(´ー｀)┌
 * Math: Bro u wanna pick a fight ke?
 * Copy Pasting: Hell yeahhh ᕙ(ಠ ਊ ಠ)ᕗ
