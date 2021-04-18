@@ -22,6 +22,7 @@
 
 | Crypto | Address |
 | --- | --- |
+| [Dogecoin](https://dogecoin.com/)|`DToNcAFCZGtthofy8gFuHmoPrjrwFNeg3v`|
 | [Bitcoin](https://bitcoin.org/en/) | `bc1qjyqjpy2z6tlcv8qfcsg3770c0wrteer0sqllrv` |
 | [Monero](https://www.getmonero.org/) | `44ZUbyaVr7DPjNYWNtsy1gWxedjEuXRP1ixdeQ5AAvYXUiTv3CXXDWNUNeihG9z5m1Y` |
 | [Scala](https://scalaproject.io/) | `SvkEwYoW1DwGSGAJWRsDQj8J4stuRdEPG6oJnqBasbrZfLyxbqdh3kYGDKgZ9XBbR2F6zb1pq4dQjQcairVHLyc91FTRGkQhW` |
