@@ -4,7 +4,6 @@
 
 [![](https://count.getloli.com/get/@niskala5570?theme=rule34)](https://count.getloli.com)
 
-####
-[![](https://img.shields.io/badge/Discord-Kazuki278__0940-blue?style=social&logo=appveyor)](https://discord.com/users/Kazuki278#0940)
-
+#### Contact Me
+Discord: Kazuki278#0940 (Most active)
 ### [Take a look at this gibberish ( ͝° ͜ʖ͡°)ᕤ](/gibberish.md)
