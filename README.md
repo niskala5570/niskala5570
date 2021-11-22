@@ -6,4 +6,3 @@
 
 #### Contact Me
 Discord: Kazuki278#0940 (Most active)
-### [Take a look at this gibberish ( ͝° ͜ʖ͡°)ᕤ](/gibberish.md)
