@@ -5,4 +5,4 @@
 [![](https://count.getloli.com/get/@niskala5570?theme=rule34)](https://count.getloli.com)
 
 #### Contact Me
-Discord: Kazuki278#0940 (Most active)
+![](https://dcbadge.vercel.app/api/shield/391233933465092097)
